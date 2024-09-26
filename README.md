@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @Dipakkhaire23
-- 👀 I’m interested in watching movies...
-- 🌱 I’m currently learning  DSA...
-- 💞️ I’m looking to collaborate on creative Project
-- 📫 How to reach me complete my frondend...
+ I'm a web and app developer passionate about building Various , user-friendly applications. I recently created my first notes application using Flutter and Firebase, which enhanced my skills in real-time database management. Currently, I'm focusing on improving my problem-solving abilities through Data Structures and Algorithms and diving into competitive programming. With experience in web development (HTML, CSS, JavaScript) and app development (Flutter, React Native), I'm always Learn new Technologies. Check out my projects!
 - 
 
-<!---
-Dipakkhaire23/Dipakkhaire23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
