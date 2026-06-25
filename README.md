@@ -126,8 +126,8 @@ Civic tech platform for municipal incident tracking with geolocation and media.
 
 <div align="center">
 
-![Dipak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Dipak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipakkhaire23&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakkhaire23&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
